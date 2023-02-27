@@ -1,0 +1,24 @@
+.card-container{
+    padding-top: 5%;
+    padding-left: 40%;
+}
+
+.input-password {
+    padding-top: 10px;
+}
+
+.container-buttons{
+    padding-top: 20px;
+}
+
+.register-container {
+    padding-top: 5%;
+}
+
+.buttons-container {
+    text-align: center;
+}
+
+.cancel-register-button {
+    margin-left: 10px;
+}
